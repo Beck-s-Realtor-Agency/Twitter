@@ -1,5 +1,5 @@
 Jassie
-Abeg
+
 Greatness
 Git is intertesting 
 very technical
