@@ -1,4 +1,3 @@
-Jassie
 
 Greatness
 Git is intertesting 
